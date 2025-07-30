@@ -2,8 +2,6 @@
 
 This is a basic HTML project created by **Priti Kumthekar**. It demonstrates a simple web page structure using HTML, suitable for beginners to understand how a webpage is built.
 
-## 🌐 Live Demo
-
 [View Live Website](https://priti1227.github.io/Index.html/)
 
 ## 📄 File Structure
