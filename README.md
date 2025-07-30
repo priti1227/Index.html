@@ -1,4 +1,37 @@
-<!DOCTYPE html>
+# Simple HTML Project
+
+This is a basic HTML project created by **Priti Kumthekar**. It demonstrates a simple web page structure using HTML, suitable for beginners to understand how a webpage is built.
+
+## 🌐 Live Demo
+
+[View Live Website](https://priti1227.github.io/Index.html/)
+
+## 📄 File Structure
+
+- `Index.html` - Main HTML file
+
+## 🛠️ Built With
+
+- HTML5
+
+## 📸 Screenshot
+
+*Add a screenshot of your project here (if available)*  
+Example:## 🚀 How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/priti1227/Index.html.git---
+
+To upload it to your GitHub repository:
+
+1. Go to [your repository](https://github.com/priti1227/Index.html)
+2. Click **“Add file” → “Create new file”**
+3. Name it **`README.md`**
+4. Paste the code above
+5. Click **“Commit new file”**
+
+Let me know if you also want a project screenshot or want to add more details like contact info or more files.<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
