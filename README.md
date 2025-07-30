@@ -1,5 +1,3 @@
-# Index.html
-My project 
 <!DOCTYPE html>
 <html lang="en">
 <head>
