@@ -233,7 +233,28 @@
         <p>Already have an account? <a href="login.html">Login here</a></p>
       </form>
     </div>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Register - LearnSpace</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="auth-container">
+    <div class="auth-box">
+      <h2>Create an Account</h2>
+      <form onsubmit="registerUser(event)">
+        <input type="text" placeholder="Username" required />
+        <input type="email" placeholder="Email" required />
+        <input type="password" placeholder="Password" required />
+        <button type="submit">Register</button>
+        <p>Already have an account? <a href="login.html">Login here</a></p>
+      </form>
+    </div>
   </div>
 
-
   <script src="script.js"></script>
+</body>
+</html>
