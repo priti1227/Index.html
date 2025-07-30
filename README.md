@@ -14,7 +14,7 @@ This is a basic HTML project created by **Priti Kumthekar**. It demonstrates a s
 
 - HTML5
 
-#₹  css code
+## css code
 
 
 </head>
